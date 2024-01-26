@@ -36,7 +36,7 @@ blocks.push({
 Extension.prototype["find-sureh"] = function(args, util) {
   const localVars = {};
     var t = JSON.parse('{list);
-    alert(t[[input]]) ;
+    return t[[input]];
 };
 
 
