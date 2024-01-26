@@ -1,6 +1,5 @@
 
-// Made with PenguinBuilder 2.6
-// use PenguinBuilder at "https://chickencuber.github.io/PenguinBuilder/"
+// this extension currently has bugs, this must be removed if you fix this :D
 (function(Scratch) {
   const blocks = [];
   const vars = {};
