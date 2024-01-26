@@ -1,5 +1,5 @@
 
-// this extension currently has bugs, this must be removed if you fix this :D
+// this extension currently has bugs, this comment must be removed if you fix this :D
 (function(Scratch) {
   const blocks = [];
   const vars = {};
